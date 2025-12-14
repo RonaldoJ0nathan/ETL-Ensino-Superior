@@ -1,7 +1,9 @@
 [project]
 name = "etl-ensino-superior"
 version = "0.1.0"
-description = "Add your description here"
+description = "An ETL pipeline for processing data from the Brazilian Higher Education Census (CENSUP)."
 readme = "README.md"
+license = "MIT"
+license-files = ["LICENSE"]
 requires-python = ">=3.12"
 dependencies = []
